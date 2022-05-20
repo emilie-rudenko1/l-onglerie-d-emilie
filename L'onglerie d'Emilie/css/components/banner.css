@@ -1,0 +1,12 @@
+.banner {
+  background-image: url(../../images/Onglerie.jpg);
+  color: black;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  color: black;
+  font-size: 50px;
+}
